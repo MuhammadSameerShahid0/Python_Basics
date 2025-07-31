@@ -24,4 +24,8 @@ To practice Python programming by solving examples and building small projects.
 
 ---
 
+## 💻 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-sameer-shahid)  
+📧 **Email**: muhammadsameershahid00@gmail.com  
+
 Feel free to explore or fork this repo if you're learning too!
