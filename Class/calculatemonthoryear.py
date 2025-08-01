@@ -1,7 +1,6 @@
 import datetime
 from Functions.MonthsDic import MonthDicClass
 
-
 class CalculateMonthOrYear:
     def __init__(self):  # ctor
         self.current_month = datetime.datetime.today().month
